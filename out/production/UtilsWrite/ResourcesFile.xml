@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<resouces-url>
+    <urls>
+        <url>/config.properties</url>
+    </urls>
+    <urls>
+        <url>/JDBC-connector.properties</url>
+    </urls>
+</resouces-url>
